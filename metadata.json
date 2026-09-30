@@ -1,0 +1,6 @@
+{
+  "name": "Desi All Tools - Sarkari & PDF Tools",
+  "description": "All-in-one Indian portal for Sarkari exam photo resizing, PDF tools, background remover, and exam date tracking with real-time countdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
