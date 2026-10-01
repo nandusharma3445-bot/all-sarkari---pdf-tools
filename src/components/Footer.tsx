@@ -57,7 +57,7 @@ export const Footer: React.FC<FooterProps> = ({ onNavigate }) => {
           <div className="lg:col-span-2">
             <div className="flex items-center gap-2 cursor-pointer" onClick={() => onNavigate('/')}>
               <div className="flex h-9 w-9 items-center justify-center rounded-xl bg-gradient-to-tr from-amber-500 via-orange-600 to-indigo-900 text-white font-black text-lg">
-                D
+                A
               </div>
               <span className="text-xl font-black text-white">All Tools</span>
             </div>

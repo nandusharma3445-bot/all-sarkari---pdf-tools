@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import logo from "../../logo.png";
 import { useAuth } from '../context/AuthContext';
 import { TOOLS_DATA, DATE_CHECKER_TOOLS } from '../data/toolsData';
 import {
